@@ -1,0 +1,35 @@
+.NewFormBox {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 50px;
+    text-transform: capitalize;
+    padding-top: 30px;
+    
+}
+
+#Form1 input {
+    margin-left: 105px;
+    width: 20%;
+}
+
+#Form2 input {
+    margin-left: 100px;
+    width: 20%;
+    margin-top: 10px;
+}
+
+#Form3 input {
+    margin-left: 10px;
+    width: 20%;
+    margin-top: 10px;
+}
+
+#Form4 button {
+    margin-left: 20%;
+    background-color: #3454d1;
+    margin-top: 15px;
+    color:white;
+    font-size: 90%;
+    border-radius: 5px;
+
+}

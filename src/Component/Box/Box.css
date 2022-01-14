@@ -1,0 +1,22 @@
+.Box-hide {
+    display: none;
+}
+
+.Box-show{
+    display: inline;
+}
+
+
+.Box{
+    display:flex;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+.Box-btn {
+    margin-left: 15px;
+    height: 20px;
+    border-radius: 5px;
+    align-self: center;
+    font-weight: 400;
+}
